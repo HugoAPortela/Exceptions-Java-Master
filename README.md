@@ -135,18 +135,3 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
     <li>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/RuntimeException.html</li>
 </ul>
 
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
